@@ -1,0 +1,7 @@
+# https://tea.xyz/what-is-this-file
+---
+version: 1.0.0
+codeOwners:
+  - '0xcc9e9cbaC3FB5263ce4E6eED59fD791408BD4c22'
+quorum: 1
+cryptomailbox
